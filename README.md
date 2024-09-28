@@ -1,5 +1,8 @@
 程序由uiautomation模块编写
 
+蓝奏云地址：
+https://wwfa.lanzouo.com/b007sy10kh
+密码:5al1
 
 该程序目前支持：
   自动发信息
